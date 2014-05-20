@@ -4,6 +4,7 @@ switch(answer) {
   case '':
     console.log();
     break;
-  // Add your code here!
+  default:
+    console.log();
   
 }
