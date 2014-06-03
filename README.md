@@ -1,5 +1,6 @@
 This repository is for basic scripting snippets.
 
+constructorArrayLoop.js constructs a function, creates an array, and loops through the array.
 
 forWhile.js contains For loop to console number 1-10, and While loop to console "hello" while condition is true.
 
