@@ -12,4 +12,6 @@ switch_case.js uses prompt to declare a var and is empty for case and default co
 
 switchPrompt.js prompts lunch request and consoles response for each listed case.
 
+typeof.js lists an object, a number, and a string, and uses "typeof" to console.log the type of each.
+
 
