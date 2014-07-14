@@ -4,6 +4,8 @@ constructorArrayLoop.js constructs a function, creates an array, and loops throu
 
 forWhile.js contains For loop to console number 1-10, and While loop to console "hello" while condition is true.
 
+literalVconstructor.js compares notation for new object using literal versus constructor notation.
+
 newObject_ConstructorAndLiteral.js creates new object using both Constructor and Literal methods.
 
 oddEven.js determines if Even number using %2, else if no number using isNaN, else odd number.
