@@ -12,10 +12,10 @@ var susan1 = {
 
 
 // new object using constructor notation
-var spencer = new Object(){
+var spencer = new Object();
     spencer.age = 22;
     spencer.country = "United States";
-}
+
     
 // new object using literal notation
 var spencer = {
