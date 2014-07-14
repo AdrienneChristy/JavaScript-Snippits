@@ -1,12 +1,10 @@
-This repository is for basic scripting snippets.
+This repository is for basic scripting snippets and examples.
 
 constructorArrayLoop.js constructs a function, creates an array, and loops through the array.
 
 forWhile.js contains For loop to console number 1-10, and While loop to console "hello" while condition is true.
 
-literalVconstructor.js compares notation for new object using literal versus constructor notation.
-
-newObject_ConstructorAndLiteral.js creates new object using both Constructor and Literal methods.
+newObject_ConstructorAndLiteral.js [examples] create new object using both Constructor and Literal methods.
 
 oddEven.js determines if Even number using %2, else if no number using isNaN, else odd number.
 
