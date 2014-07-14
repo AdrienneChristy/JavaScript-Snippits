@@ -1,4 +1,4 @@
-This repository is for basic scripting snippets and examples.
+This repository is for basic JavaScript snippets and examples.
 
 constructorArrayLoop.js constructs a function, creates an array, and loops through the array.
 
