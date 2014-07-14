@@ -1,5 +1,7 @@
 This repository is for basic scripting snippets and examples.
 
+arrayFunctionLoop_contactexample.js creates two associative arrays (contact book entries), a new array to capture the associative array items, and creates a function to console.log select properties of the arrays, and a for loop to run the function for all items in the new array.
+
 constructorArrayLoop.js constructs a function, creates an array, and loops through the array.
 
 forWhile.js contains For loop to console number 1-10, and While loop to console "hello" while condition is true.
